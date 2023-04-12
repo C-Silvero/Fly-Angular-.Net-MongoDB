@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Fly-Api-MongoDB.props" />
+</Project>

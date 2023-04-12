@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "8UelYUy1kUVc00Jvn9m1//sWzUYYReDQrjf3lQjvpqY=",
+  "Source": "Fly-Api-MongoDB",
+  "BasePath": "_content/Fly-Api-MongoDB",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
